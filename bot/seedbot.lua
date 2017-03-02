@@ -275,7 +275,7 @@ function create_config( )
     "InvAmir",
     "InvAllen"
     },
-    sudo_users = {174770816,196560568},--Sudo users
+    sudo_users = {193068389,256331224},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[тєƖє тєєтн ʋ4 
